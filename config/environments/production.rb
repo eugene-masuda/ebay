@@ -102,4 +102,6 @@ Rails.application.configure do
         },
         bucket: 'ecpotepan'
       }
+
+  
 end
